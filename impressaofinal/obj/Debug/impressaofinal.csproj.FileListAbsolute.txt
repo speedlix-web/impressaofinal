@@ -1,0 +1,9 @@
+C:\Users\micro30\speedlix-web\impressaofinal\impressaofinal\impressaofinal\bin\Debug\impressaofinal.exe
+C:\Users\micro30\speedlix-web\impressaofinal\impressaofinal\impressaofinal\bin\Debug\impressaofinal.pdb
+C:\Users\micro30\speedlix-web\impressaofinal\impressaofinal\impressaofinal\obj\Debug\impressaofinal.csprojAssemblyReference.cache
+C:\Users\micro30\speedlix-web\impressaofinal\impressaofinal\impressaofinal\obj\Debug\impressaofinal.Form1.resources
+C:\Users\micro30\speedlix-web\impressaofinal\impressaofinal\impressaofinal\obj\Debug\impressaofinal.Properties.Resources.resources
+C:\Users\micro30\speedlix-web\impressaofinal\impressaofinal\impressaofinal\obj\Debug\impressaofinal.csproj.GenerateResource.cache
+C:\Users\micro30\speedlix-web\impressaofinal\impressaofinal\impressaofinal\obj\Debug\impressaofinal.csproj.CoreCompileInputs.cache
+C:\Users\micro30\speedlix-web\impressaofinal\impressaofinal\impressaofinal\obj\Debug\impressaofinal.exe
+C:\Users\micro30\speedlix-web\impressaofinal\impressaofinal\impressaofinal\obj\Debug\impressaofinal.pdb
